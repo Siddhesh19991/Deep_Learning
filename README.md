@@ -2,7 +2,7 @@
 
 The following repo contains the lab work for the course "Deep Learning" (732A78) in the Statistics and Machine Learning division at Linköping University.
 
-The Python code has been utilized within the Juypter notebook inside Google Colab. Google Colab was used as it provides additional GPU. 
+The Python code has been utilized within the Juypter notebook inside Google Colab. Google Colab was used as it provides access to computing resources. 
 
 
 - Lab 1: DNN (Deep Neural Networks) 
